@@ -35,4 +35,5 @@ dependencies {
     compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.35'
     compile 'com.ashokvarma.android:bottom-navigation-bar:1.4.1'
     implementation 'com.android.support:design:27.0.2'
+
 }

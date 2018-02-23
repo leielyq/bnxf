@@ -1,0 +1,8 @@
+diff a/app/build.gradle b/app/build.gradle	(rejected hunks)
+@@ -33,5 +33,6 @@
+     compile 'com.lzy.net:okgo:3.0.4'
+     implementation 'me.drakeet.multitype:multitype:3.4.4'
+     compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.35'
++    compile 'com.ashokvarma.android:bottom-navigation-bar:1.4.1'
+     implementation 'com.android.support:design:27.0.2'
+ }
