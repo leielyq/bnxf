@@ -4,18 +4,18 @@
 
     <item
         android:id="@+id/bottom_bar_01"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_institution"
         android:title="Item" />
     <item
         android:id="@+id/bottom_bar_02"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_my"
         android:title="Item" />
     <item
         android:id="@+id/bottom_bar_03"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_home"
         android:title="Item" />
     <item
         android:id="@+id/bottom_bar_04"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_teacher"
         android:title="Item" />
 </menu>
